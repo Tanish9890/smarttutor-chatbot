@@ -1,0 +1,29 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/genai": "^2.2.0",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "mammoth": "^1.12.0",
+    "next": "latest",
+    "openai": "^6.38.0",
+    "pdf-parse": "^1.1.1",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
